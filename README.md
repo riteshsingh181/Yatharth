@@ -1,4 +1,4 @@
-# Yatharth - Empowering Education with AI
+# Yatharth - where Education meets Reality
 
 **Yatharth** is an innovative educational solution designed to reduce student dropout rates by providing personalized learning paths, AI-driven future projections, and comprehensive financial support management. Our goal is to create an inclusive platform that addresses the diverse needs of students, particularly in India, by offering multilingual support, personalized guidance, and community-driven learning.
 
